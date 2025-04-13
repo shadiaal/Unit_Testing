@@ -7,13 +7,13 @@ It focuses on building models, repositories, and comprehensive unit tests using 
 
 ## Features
 
-- ✅ User and Order Data Models
-- ✅ Entity Framework Core Database Context (AppDbContext)
-- ✅ Repository Pattern for User and Order entities
-- ✅ Full CRUD operations
-- ✅ Unit Testing for CRUD operations
-- ✅ Mocking external dependencies
-- ✅ Edge case handling and exception testing
+- User and Order Data Models
+- Entity Framework Core Database Context (AppDbContext)
+- Repository Pattern for User and Order entities
+- Full CRUD operations
+- Unit Testing for CRUD operations
+- Mocking external dependencies
+- Edge case handling and exception testing
 
 ## Technologies Used
 
@@ -73,11 +73,11 @@ dotnet test
 This project uses **NUnit**  to run unit tests.  
 Tests cover:
 
-- ✅ Create: Adding new users and orders.
-- ✅ Read: Fetching users and orders by ID.
-- ✅ Update: Updating existing users and orders.
-- ✅ Delete: Removing users and orders.
-- ✅ Edge Cases: Handling null values, empty fields, and non-existent IDs.
-- ✅ Exception Handling: Graceful failure and validation.
+- Create: Adding new users and orders.
+- Read: Fetching users and orders by ID.
+- Update: Updating existing users and orders.
+- Delete: Removing users and orders.
+- Edge Cases: Handling null values, empty fields, and non-existent IDs.
+
 
 
